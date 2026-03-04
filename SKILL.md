@@ -1,6 +1,6 @@
 ---
 name: Competitor Monitor Agent — Market Intelligence Sentinel
-description: Analyze, Orchestrate, and Validate operations to: Deterministically scrapes competitor websites via Python, extracts pricing tiers, H1/H2 messaging, and feature announcements, then contrasts them against the user's baseline in a MECE Contrast Matrix. Outputs an actionable Counter-Attack SOP. ROI: prevents strategic blind spots and compresses competitive intelligence cycles from weeks to minutes.
+description: "Analyze, Orchestrate, and Validate operations to: Deterministically scrapes competitor websites via Python, extracts pricing tiers, H1/H2 messaging, and feature announcements, then contrasts them against the user's baseline in a MECE Contrast Matrix. Outputs an actionable Counter-Attack SOP. ROI: prevents strategic blind spots and compresses competitive intelligence cycles from weeks to minutes."
 ---
 
 # 🎯 Goal
